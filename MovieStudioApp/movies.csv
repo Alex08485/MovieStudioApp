@@ -1,0 +1,11 @@
+movie_id;studio_id;movie_name;budget_mln
+1;1;The Dark Knight;185
+2;1;Inception;160
+3;2;Jurassic World;150
+4;2;Fast & Furious 7;190
+5;3;Mission: Impossible - Fallout;178
+6;4;Avengers: Endgame;356
+7;4;Frozen II;150
+8;5;Spider-Man: No Way Home;200
+9;5;Jumanji: Welcome to the Jungle;90
+
